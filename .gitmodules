@@ -1,3 +1,0 @@
-[submodule "gitblit"]
-	path = gitblit
-	url = https://github.com/gitblit/gitblit
