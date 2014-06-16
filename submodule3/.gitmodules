@@ -1,3 +1,0 @@
-[submodule "gitlab-ce"]
-	path = gitlab-ce
-	url = https://gitlab.com/gitlab-org/gitlab-ce.git
