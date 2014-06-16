@@ -1,3 +1,6 @@
 [submodule "submodule3"]
 	path = submodule3
 	url = ../submodule3
+[submodule "gitlab-ce"]
+	path = gitlab-ce
+	url = https://gitlab.com/gitlab-org/gitlab-ce.git
